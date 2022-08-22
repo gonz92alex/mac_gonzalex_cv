@@ -177,6 +177,49 @@
       },
       {
         "organization": {
+          "name": "CaixaBank",
+          "image": {
+            "alt": "BmjPZWMB_400x400.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/22/fa2f528f-6eda-4ab0-b3b3-da0a21bf1fa1_bmjpzwmb_400x400.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Becario Auditoria Continua",
+            "startDate": "2017-01-01",
+            "finishDate": "2018-01-01",
+            "challenges": [
+              {
+                "description": "• Diseño e implementación de software de uso interno para auditoria de CaixaBank, dentro del equipo de auditoria continua y transformación digital.\n• Realización de ETL (Extracción, transformación y carga) de datos de diferentes fuentes como Excel, XML, Oracle DB, CSV, etc., y diferentes orígenes, local, SharePoint, APIs, etc y el uso de la librería pandas de Python para la manipulación de datos que usaran indicadores.\n• Automatización y monitorización de procesos automáticos con bash, sqlplus y Python.\n• Desarrollo de queries SQL sobre DataWarehouse Oracle para la construccion de indicadores de auditoría.\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Bash",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "PL/SQL",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Freelance"
         },
         "roles": [
