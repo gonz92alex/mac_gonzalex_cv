@@ -210,6 +210,41 @@
           }
         ]
       }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Connecta 4",
+          "description": "El clásico juego de conecta 4 construido con tecnologias Web",
+          "URL": "https://gonz92alex.github.io/minesweeper/"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-03-01",
+            "finishDate": "2022-04-01",
+            "competences": [
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Preact",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
