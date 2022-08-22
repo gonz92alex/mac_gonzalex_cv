@@ -370,6 +370,37 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Grado en Ingeniería informática",
+        "startDate": "2014-09-01",
+        "finishDate": "2020-06-01",
+        "institution": {
+          "name": "Universitat Politècnica de Catalunya - FIB",
+          "description": "• Especialidad en ingeniería del Software\n• En el trabajo final obtuve un 9.6 por el diseño e implementación de una aplicación web para auditoria CaixaBank en Python.",
+          "image": {
+            "alt": "Logotip_FIB.svg.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/22/cc7e5871-ef6d-4c5e-a210-316f6fd290f5_logotip_fib.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "UML",
+            "type": "technology"
+          }
+        ]
+      }
     ]
   },
   "careerPreferences": {
