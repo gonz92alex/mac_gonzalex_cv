@@ -135,6 +135,45 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Aplicaciones en Informática Avanzada",
+          "image": {
+            "alt": "download.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/22/28d97457-ebd5-44a9-a4a6-fdec57e33317_download.jpg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Java Developer Intership",
+            "startDate": "2018-01-01",
+            "finishDate": "2018-07-01",
+            "challenges": [
+              {
+                "description": "• Desarrolle de aplicaciones en Java. Diseñe, implemente y probe un sistema de test con reporte automático con\n• Selenium que se implementó en todos los proyectos."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "PL/SQL",
+                "type": "technology"
+              },
+              {
+                "name": "Selenium",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
