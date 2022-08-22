@@ -8,9 +8,21 @@
     "profile": {
       "name": "Alejandro",
       "surnames": "Gonzalez Garcia",
-      "description": "Me encanta el lenguaje Python, y cada vez intento saber mas como funciona a bajo nivel. Pero es que soy así, una persona que si algo le apasiona quiere llegar al fondo de la question."
+      "title": "Full Stack Developer and Dta Engineer",
+      "description": "Me encanta el lenguaje Python, y cada vez intento saber mas como funciona a bajo nivel. Pero es que soy así, una persona que si algo le apasiona quiere llegar al fondo de la question.",
+      "avatar": {
+        "alt": "IMG20200607182306 (1).jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/22/947f3047-a678-4e9b-9911-218dd91bdae8_img20200607182306-(1.jpg"
+      },
+      "location": {
+        "notes": "Terrassa (Barcelona)"
+      }
     },
     "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/gonz92alex"
+      },
       {
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/gonz92alex"
@@ -104,6 +116,44 @@
         {
           "type": "linkedin",
           "URL": "https://www.linkedin.com/in/gonz92alex"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Fastapi",
+          "type": "technology"
+        },
+        {
+          "name": "Flask",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "PL/SQL",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "Django",
+          "type": "technology"
         }
       ]
     }
