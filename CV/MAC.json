@@ -37,7 +37,8 @@
           "image": {
             "alt": "image001.jpg",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/22/8e94ccd4-a68e-4606-8510-98a0b0ba114d_image001.jpg"
-          }
+          },
+          "URL": "http://www.bestauditconsulting.com/"
         },
         "roles": [
           {
@@ -45,7 +46,7 @@
             "startDate": "2019-01-01",
             "challenges": [
               {
-                "description": "• Diseño e implementación de software de uso interno para auditoria de CaixaBank, dentro del equipo de auditoria\ncontinua y transformación digital.\n• Uso de Python con Flask para construir aplicaciones con front-end y back-end y uso de Python con Fastapi para\nla construcción de microservicios, y TypeScript con React para el front-end de aplicaciones que dan soporte a\nauditoria CaixaBank.\n• Realización de ETL (Extracción, transformación y carga) de datos de diferentes fuentes como Excel, XML, Oracle\nDB, CSV, etc., y diferentes orígenes, local, SharePoint, APIs, etc y el uso de la librería pandas de Python para la\nmanipulación de datos que usaran indicadores.\n• Automatización y monitorización de procesos automáticos con bash, sqlplus y Python.\n• Realización de queries SQL sobre DataWarehouse Oracle para la realización de indicadores de auditoría.\n• Realización de procesos de con Airflow."
+                "description": "• Diseño e implementación de software de uso interno para auditoria de CaixaBank, dentro del equipo de auditoria continua y transformación digital.\n• Uso de Python con Flask para construir aplicaciones con front-end y back-end y uso de Python con Fastapi para la construcción de microservicios, y TypeScript con React para el front-end de aplicaciones que dan soporte a auditoria CaixaBank.\n• Realización de ETL (Extracción, transformación y carga) de datos de diferentes fuentes como Excel, XML, Oracle DB, CSV, etc., y diferentes orígenes, local, SharePoint, APIs, etc y el uso de la librería pandas de Python para la manipulación de datos que usaran indicadores.\n• Automatización y monitorización de procesos automáticos con bash, sqlplus y Python.\n• Desarrollo de queries SQL sobre DataWarehouse Oracle para la construcción de indicadores de auditoría.\n• Realización de procesos de con Airflow."
               }
             ],
             "competences": [
