@@ -96,6 +96,45 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Experis",
+          "image": {
+            "alt": "1656680917855.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/22/e1b993f3-a372-42a5-a3df-6f81fcce6c51_1656680917855.jpg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Oracle Forms Developer",
+            "startDate": "2018-07-01",
+            "finishDate": "2018-12-01",
+            "challenges": [
+              {
+                "description": "Mantenimiento y diseño de nuevas funcionalidades de una aplicación escrita en Oracle Forms."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Bash",
+                "type": "technology"
+              },
+              {
+                "name": "C",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle Forms",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
